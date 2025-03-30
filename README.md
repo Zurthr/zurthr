@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Zur! (or Zul) and I'm an undergraduate student interested in designing, writing, and unsurprisingly, making games!
 
-##What I'm currently interested in 🫣
+## What I'm currently interested in 🫣
 - Front-End Development
 - UI/UX Development
 - Machine Learning
