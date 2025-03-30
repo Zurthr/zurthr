@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm Zur! (or Zul) and I'm an undergraduate student interested in designing, writing, and unsurprisingly, making games!
 
+##What I'm currently interested in 🫣
+- Front-End Development
+- UI/UX Development
+- Machine Learning
+- Game Development (for ages, bro!)
+
+Other than code-related activities, I have tons of experiences in organizations, especially with leading and/or managerial positions.
+Wish me luck on landing my dream jobs, y'all! ✨
 <!--
 **Zurthr/zurthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
