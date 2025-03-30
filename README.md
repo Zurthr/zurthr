@@ -11,6 +11,7 @@ I'm Zur! (or Zul) and I'm an undergraduate student interested in designing, writ
 - HTML & CSS
 - Python
 - JavaScript
+- MySQL
 - Godot
 - C#
 - Lua
