@@ -7,6 +7,17 @@ I'm Zur! (or Zul) and I'm an undergraduate student interested in designing, writ
 - Machine Learning
 - Game Development (for ages, bro!)
 
+## Main Programming Languages and Other IT Tools 📖
+- HTML & CSS
+- Python
+- JavaScript
+- Godot
+- C#
+- Lua
+- ReactJS, Vue (Learning)
+
+I also have experiences in creating minecraft plugins and mods, and also server hosting! Somehow roblox development too..
+
 Other than code-related activities, I have tons of experiences in organizations, especially with leading and/or managerial positions.
 Wish me luck on landing my dream jobs, y'all! ✨
 <!--
