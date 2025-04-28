@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Zur (or Zul!) and I'm an undergraduate student interested in designing, writing, and unsurprisingly, making games! I'm also growing fond of Web Development along with Machine Learning
+Currently NOT open to freelance, but I also generally freelance UI/UX and Front-End work!
 
 ## What I'm currently interested in 🫣
 - Front-End Development
