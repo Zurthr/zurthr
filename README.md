@@ -23,7 +23,6 @@ Currently NOT open to freelance, but I also generally freelance UI/UX and Front-
 I also have experiences in creating minecraft plugins and mods, and also server hosting! Somehow roblox development too..
 
 Other than code-related activities, I have tons of experiences in organizations, especially with leading and/or managerial positions.
-Wish me luck on landing my dream jobs, y'all! ✨
 <!--
 **Zurthr/zurthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
